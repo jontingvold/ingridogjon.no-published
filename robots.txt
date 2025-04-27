@@ -1,0 +1,7 @@
+User-Agent: ia_archiver
+Disallow: /
+
+User-agent: *
+Disallow: /assets/
+Sitemap: https://www.ingridogjon.no/sitemap.xml
+

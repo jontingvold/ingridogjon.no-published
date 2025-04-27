@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title>Ingrid & Jon</title>
+<icon>https://www.ingridogjon.no/favicon.ico</icon>
+
+<link
+        href="https://www.ingridogjon.no/atom.xml" rel="self" />
+<link
+        href="https://www.ingridogjon.no/" />
+<id>https://www.ingridogjon.no</id>
+
+<updated>2025-04-27T10:06:22+00:00</updated>
+
+<author>
+        <name>Ingrid & Jon</name>
+    </author>  </feed>
